@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=Experiment 2 Member=P16
+Removed Member From Class: ClassName=Experiment 2 Member=R2
+Change Component Designator: OldDesignator=D1 NewDesignator=D5
+Change Component Designator: OldDesignator=D2 NewDesignator=D7
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D8
+Change Component Designator: OldDesignator=D7 NewDesignator=D2
+Change Component Designator: OldDesignator=D8 NewDesignator=D4
+Change Component Designator: OldDesignator=P7 NewDesignator=P16
+Change Component Designator: OldDesignator=P8 NewDesignator=P17
+Change Component Designator: OldDesignator=P9 NewDesignator=P7
+Change Component Designator: OldDesignator=P10 NewDesignator=P13
+Change Component Designator: OldDesignator=P11 NewDesignator=P8
+Change Component Designator: OldDesignator=P12 NewDesignator=P9
+Change Component Designator: OldDesignator=P13 NewDesignator=P14
+Change Component Designator: OldDesignator=P14 NewDesignator=P10
+Change Component Designator: OldDesignator=P16 NewDesignator=P11
+Change Component Designator: OldDesignator=P17 NewDesignator=P12
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Added Component: Designator=P18(PINHD-1X02 ONCE)
+Added Component: Designator=P19(PINHD-1X02 ONCE)
+Added Pin To Net: NetName=NetD6_C Pin=P18-1
+Added Pin To Net: NetName=NetD6_C Pin=P18-2
+Added Pin To Net: NetName=NetC3_2 Pin=P19-1
+Added Pin To Net: NetName=NetC3_2 Pin=P19-2
+Added Member To Class: ClassName=Experiment 2 Member=Component P17 -AC
+Added Member To Class: ClassName=Experiment 2 Member=Component P18 VCC
+Added Member To Class: ClassName=Experiment 2 Member=Component P19 GND
+Added Member To Class: ClassName=Experiment 2 Member=Component R3 1k
+Added Room: Name=Experiment 1
+Added Room: Name=Experiment 2

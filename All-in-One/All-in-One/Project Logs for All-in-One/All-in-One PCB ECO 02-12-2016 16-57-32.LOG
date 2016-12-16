@@ -1,0 +1,14 @@
+Change Component Comment : Designator=P3 Old Comment=NAME? New Comment=+15V
+Change Component Comment : Designator=P4 Old Comment=NAME? New Comment=-15V
+Change Component Comment : Designator=P2 Old Comment=NAME? New Comment=GND
+Change Component Comment : Designator=P5 Old Comment=NAME? New Comment=GND
+Change Component Comment : Designator=P10 Old Comment=NAME? New Comment=SEL_DIODE
+Change Component Comment : Designator=P7 Old Comment=NAME? New Comment=SEL_FILTER
+Change Component Comment : Designator=P12 Old Comment=NAME? New Comment=VD
+Change Component Comment : Designator=P1 Old Comment=NAME? New Comment=VIN
+Change Component Comment : Designator=P6 Old Comment=NAME? New Comment=VIN
+Change Component Comment : Designator=P9 Old Comment=NAME? New Comment=VO_HIGH
+Change Component Comment : Designator=P8 Old Comment=NAME? New Comment=VO_LOW
+Change Component Comment : Designator=P11 Old Comment=NAME? New Comment=VR
+Added Room: Name=Experiment 1
+Added Room: Name=Experiment 2

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P5 NewDesignator=P16
+Change Component Designator: OldDesignator=P6 NewDesignator=P15
+Change Component Designator: OldDesignator=P6 NewDesignator=P17
+Added Member To Class: ClassName=Experiment 2 Member=Component P15 +AC
+Added Member To Class: ClassName=Experiment 2 Member=Component P16 +AC
+Added Member To Class: ClassName=Experiment 2 Member=Component P17 -AC

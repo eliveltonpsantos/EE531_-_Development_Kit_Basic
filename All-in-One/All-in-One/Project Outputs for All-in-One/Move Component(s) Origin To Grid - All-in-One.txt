@@ -1,0 +1,44 @@
+Move Component(s) Origin to Grid
+Filename     : C:\GitHub\EA531_-_Development_Kit_Basic\All-in-One\All-in-One\All-in-One.PcbDoc
+Date         : 04/12/2016
+Time         : 18:06:57
+Time Elapsed : 00:00:00
+
+
+    Small Component P19-GND (2810mil,1490mil) on Top Layer - Component origin is already ON grid.
+    Small Component P18-VCC (2695mil,1790mil) on Top Layer - Component origin is already ON grid.
+    SMT Small Component R5-10k (2025mil,2850mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R4-10k (2025mil,3000mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component P14-ENABLE_CAPAC (2316mil,2025mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P13-SEL_RECTIF (1500mil,2675mil) on Top Layer - Component origin is already ON grid.
+    Small Component P17--AC (1225mil,2550mil) on Top Layer - Component origin is already ON grid.
+    Small Component P15-+AC (2325mil,2850mil) on Top Layer - Component origin is already ON grid.
+    Small Component P16-+AC (1225mil,2800mil) on Top Layer - Component origin is already ON grid.
+    Small Component D8-1N4001 (1850mil,1950mil) on Top Layer - Component origin is already ON grid.
+    Small Component D7-1N4001 (1300mil,1950mil) on Top Layer - Component origin is already ON grid.
+    Small Component D6-1N4001 (1850mil,2100mil) on Top Layer - Component origin is already ON grid.
+    Small Component D5-1N4001 (1300mil,2100mil) on Top Layer - Component origin is already ON grid.
+    Small Component D4-1N4001 (1875mil,2750mil) on Top Layer - Component origin is already ON grid.
+    Small Component C3-100uF/50V (2205mil,2440mil) on Top Layer - Component origin is already ON grid.
+    SMT Small Component R3-1k (1850mil,3825mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R2-100k (1975mil,4475mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-100k (1875mil,4625mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component P10-SEL_DIODE (2320mil,3675mil) on Top Layer - Component origin is already ON grid.
+    Small Component P5-GND (1225mil,3350mil) on Top Layer - Component origin is already ON grid.
+    Small Component P11-VR (2329mil,3350mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P4--15V (1225mil,3600mil) on Top Layer - Component origin is already ON grid.
+    Small Component P12-VD (2329mil,3100mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P3-+15V (1225mil,3850mil) on Top Layer - Component origin is already ON grid.
+    Small Component P6-VIN (1225mil,3100mil) on Top Layer - Component origin is already ON grid.
+    Small Component P9-VO_HIGH (2125mil,4425mil) on Top Layer - Component origin is already ON grid.
+    Small Component P2-GND (1225mil,4475mil) on Top Layer - Component origin is already ON grid.
+    Small Component P7-SEL_FILTER (1400mil,4575mil) on Top Layer - Component origin is already ON grid.
+    Small Component P1-VIN (1225mil,4725mil) on Top Layer - Component origin is already ON grid.
+    Small Component P8-VO_LOW (2125mil,4675mil) on Top Layer - Component origin is already ON grid.
+    SOIC Component IC1-UA741CDT (1600mil,3825mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component D2-1N4148 (1800mil,3300mil) on Top Layer - Component origin is already ON grid.
+    Small Component D3-1N4001 (1650mil,3300mil) on Top Layer - Component origin is already ON grid.
+    Small Component D1-1N4148 (1500mil,3300mil) on Top Layer - Component origin is already ON grid.
+    SMT Small Component C1-100pF (1875mil,4475mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C2-100pF (1975mil,4625mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+count : 36

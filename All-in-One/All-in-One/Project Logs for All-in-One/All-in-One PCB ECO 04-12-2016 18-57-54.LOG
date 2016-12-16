@@ -1,0 +1,38 @@
+Added Component: Designator=C4(C-3.5x8)
+Added Component: Designator=C5(C-3.5x8)
+Added Component: Designator=D9(DO41-10)
+Added Component: Designator=D10(DO41-10)
+Added Component: Designator=P20(PINHD-1X02 ONCE)
+Added Component: Designator=P21(PINHD-1X02 ONCE)
+Added Component: Designator=P22(PINHD-1X02 ONCE)
+Added Component: Designator=P23(PINHD-1X02 ONCE)
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=D9-C
+Added Pin To Net: NetName=NetC4_1 Pin=P20-1
+Added Pin To Net: NetName=NetC4_1 Pin=P20-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C5-1
+Added Pin To Net: NetName=NetC4_2 Pin=P23-1
+Added Pin To Net: NetName=NetC4_2 Pin=P23-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=D10-A
+Added Pin To Net: NetName=NetC5_2 Pin=P22-1
+Added Pin To Net: NetName=NetC5_2 Pin=P22-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetD9_A Pin=D9-A
+Added Pin To Net: NetName=NetD9_A Pin=D10-C
+Added Pin To Net: NetName=NetD9_A Pin=P21-1
+Added Pin To Net: NetName=NetD9_A Pin=P21-2
+Added Net: Name=NetD9_A
+Added Member To Class: ClassName=Experiment 2 Member=Component C4 100uF/50V
+Added Member To Class: ClassName=Experiment 2 Member=Component C5 100uF/50V
+Added Member To Class: ClassName=Experiment 2 Member=Component D9 1N4001
+Added Member To Class: ClassName=Experiment 2 Member=Component D10 1N4001
+Added Member To Class: ClassName=Experiment 2 Member=Component P20 V+_D
+Added Member To Class: ClassName=Experiment 2 Member=Component P21 VIN_D
+Added Member To Class: ClassName=Experiment 2 Member=Component P22 V-_D
+Added Member To Class: ClassName=Experiment 2 Member=Component P23 GND_D
+Added Room: Name=Experiment 1
+Added Room: Name=Experiment 2

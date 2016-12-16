@@ -1,0 +1,16 @@
+Added Component: Designator=C6(C0805)
+Added Component: Designator=P24(PINHD-1X05)
+Added Component: Designator=P25(PINHD-1X02 ONCE)
+Added Component: Designator=P26(PINHD-1X02 ONCE)
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=P25-1
+Added Pin To Net: NetName=NetC6_1 Pin=P25-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetP26_1 Pin=P26-1
+Added Pin To Net: NetName=NetP26_1 Pin=P26-2
+Added Net: Name=NetP26_1
+Added Class: Name=Experiment 3
+Added Member To Class: ClassName=Experiment 2 Member=Component P24 NAME?
+Added Room: Name=Experiment 1
+Added Room: Name=Experiment 2
+Added Room: Name=Experiment 3

@@ -1,0 +1,31 @@
+Change Component Comment : Designator=P11 Old Comment=+15V New Comment=NAME?
+Change Component Comment : Designator=P9 Old Comment=-15V New Comment=NAME?
+Change Component Comment : Designator=P2 Old Comment=GND New Comment=NAME?
+Change Component Comment : Designator=P7 Old Comment=GND New Comment=NAME?
+Change Component Comment : Designator=P5 Old Comment=HIGH_PASS_FILTER New Comment=NAME?
+Change Component Comment : Designator=P4 Old Comment=LOW_PASS_FILTER New Comment=NAME?
+Change Component Comment : Designator=P6 Old Comment=SEL_DIODE New Comment=NAME?
+Change Component Comment : Designator=P3 Old Comment=SEL_FILTER New Comment=NAME?
+Change Component Comment : Designator=P10 Old Comment=VD New Comment=NAME?
+Change Component Comment : Designator=P1 Old Comment=VIN+ New Comment=NAME?
+Change Component Comment : Designator=P12 Old Comment=VIN+ New Comment=NAME?
+Change Component Comment : Designator=P8 Old Comment=VR New Comment=NAME?
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=D1 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P1
+Change Component Designator: OldDesignator=P6 NewDesignator=P12
+Change Component Designator: OldDesignator=P7 NewDesignator=P11
+Change Component Designator: OldDesignator=P8 NewDesignator=P10
+Change Component Designator: OldDesignator=P10 NewDesignator=P8
+Change Component Designator: OldDesignator=P11 NewDesignator=P7
+Change Component Designator: OldDesignator=P12 NewDesignator=P6
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetD1_A New Net Name=NetD3_A
+Change Net Name : Old Net Name=NetD1_C New Net Name=NetD2_C
+Change Net Name : Old Net Name=NetD3_C New Net Name=NetD1_C
+Added Room: Name=Experiment 1

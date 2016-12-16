@@ -1,0 +1,64 @@
+Added Component: Designator=C3(C-3.5x8)
+Added Component: Designator=D4(DO41-10)
+Added Component: Designator=D5(DO41-10)
+Added Component: Designator=D6(DO41-10)
+Added Component: Designator=D7(DO41-10)
+Added Component: Designator=D8(DO41-10)
+Added Component: Designator=P5(PINHD-1X02 ONCE)
+Added Component: Designator=P6(PINHD-1X02 ONCE)
+Added Component: Designator=P6(PINHD-1X02 ONCE)
+Added Component: Designator=P13(PINHD-1X03)
+Added Component: Designator=P14(PINHD-1X02)
+Added Component: Designator=R4(R0805)
+Added Component: Designator=R5(R0805)
+Change Net Name : Old Net Name=GND/2 New Net Name=AGND/2
+Added Pin To Net: NetName=+AC/2 Pin=P5-1
+Added Pin To Net: NetName=+AC/2 Pin=P5-2
+Added Pin To Net: NetName=+AC/2 Pin=P13-2
+Added Net: Name=+AC/2
+Added Pin To Net: NetName=-AC/2 Pin=D7-C
+Added Pin To Net: NetName=-AC/2 Pin=D8-A
+Added Pin To Net: NetName=-AC/2 Pin=P6-1
+Added Pin To Net: NetName=-AC/2 Pin=P6-2
+Added Pin To Net: NetName=-AC/2 Pin=R4-1
+Added Net: Name=-AC/2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=P14-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=D5-A
+Added Pin To Net: NetName=NetC3_2 Pin=D7-A
+Added Pin To Net: NetName=NetC3_2 Pin=R5-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=P13-1
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD4_C Pin=D4-C
+Added Pin To Net: NetName=NetD4_C Pin=P6-1
+Added Pin To Net: NetName=NetD4_C Pin=P6-2
+Added Pin To Net: NetName=NetD4_C Pin=R4-2
+Added Net: Name=NetD4_C
+Added Pin To Net: NetName=NetD5_C Pin=D5-C
+Added Pin To Net: NetName=NetD5_C Pin=D6-A
+Added Pin To Net: NetName=NetD5_C Pin=P13-3
+Added Net: Name=NetD5_C
+Added Pin To Net: NetName=NetD6_C Pin=D6-C
+Added Pin To Net: NetName=NetD6_C Pin=D8-C
+Added Pin To Net: NetName=NetD6_C Pin=P14-2
+Added Pin To Net: NetName=NetD6_C Pin=R5-2
+Added Net: Name=NetD6_C
+Added Member To Class: ClassName=Experiment 2 Member=Component C3 100uF/50V
+Added Member To Class: ClassName=Experiment 2 Member=Component D4 1N4001
+Added Member To Class: ClassName=Experiment 2 Member=Component D5 1N4001
+Added Member To Class: ClassName=Experiment 2 Member=Component D6 1N4001
+Added Member To Class: ClassName=Experiment 2 Member=Component D7 1N4001
+Added Member To Class: ClassName=Experiment 2 Member=Component D8 1N4001
+Added Member To Class: ClassName=Experiment 2 Member=Component P5 GND
+Added Member To Class: ClassName=Experiment 2 Member=Component P6 +AC
+Added Member To Class: ClassName=Experiment 2 Member=Component P6 -AC
+Added Member To Class: ClassName=Experiment 2 Member=Component P13 SEL_RECTIF
+Added Member To Class: ClassName=Experiment 2 Member=Component P14 ENABLE_CAPAC
+Added Member To Class: ClassName=Experiment 2 Member=Component R4 10k
+Added Member To Class: ClassName=Experiment 2 Member=Component R5 10k
+Added Room: Name=Experiment 1
+Added Room: Name=Experiment 2
